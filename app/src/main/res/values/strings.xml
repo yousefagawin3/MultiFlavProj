@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiFlavProj</string>
+
+    <string name="input">Input:</string>
+    <string name="result">Result:</string>
+
+    <string name="input_value">Input: %1$s</string>
+    <string name="result_value">Result: %1$s</string>
+    <string name="add_input">Add Input</string>
+</resources>
